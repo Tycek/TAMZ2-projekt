@@ -1,5 +1,4 @@
 # TAMZ2-projekt
-Projekt do předmětu Tvorba aplikací pro mobilní zařízení 2
 
 Projekt do předmětu Tvorba aplikací pro mobilní zařízení 2
 
